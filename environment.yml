@@ -7,3 +7,6 @@ dependencies:
   - oddt
   - rdkit
   - openbabel
+  # additional dependencies
+  - matplotlib
+  - scikit-image
