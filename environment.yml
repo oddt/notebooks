@@ -1,0 +1,9 @@
+channels:
+  - oddt
+  - rdkit
+  - openbabel
+  - defaults
+dependencies:
+  - oddt
+  - rdkit
+  - openbabel
